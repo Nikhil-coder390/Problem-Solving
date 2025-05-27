@@ -1,4 +1,7 @@
 #include <string>
+#include <iostream>
+using namespace std;
+
 class Solution{	
 public:		
     string largeOddNum(string& s){
@@ -17,8 +20,7 @@ public:
         }
         return s.substr(i,j-i+1);
     }
-#include <iostream>
-using namespace std;
+};
 
 int main() {
     Solution sol;

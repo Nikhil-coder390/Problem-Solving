@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "LongestPrefix",
+      "request": "launch",
+      "mainClass": "DSA.strings.LongestPrefix",
+      "projectName": "Problem-Solving_c3ca94be"
+    },
+    {
+      "type": "java",
+      "name": "longestPrefix",
+      "request": "launch",
+      "mainClass": "DSA.strings.longestPrefix",
+      "projectName": "Problem-Solving_c3ca94be"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
