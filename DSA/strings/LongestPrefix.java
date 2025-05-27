@@ -1,3 +1,5 @@
+package DSA.strings;
+
 import java.util.Arrays;
 
 // LeetCode Problem: Longest Common Prefix
