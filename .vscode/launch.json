@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "merge",
+      "request": "launch",
+      "mainClass": "sorting.merge",
+      "projectName": "Problem-Solving_c3ca94be"
+    },
+    {
+      "type": "java",
       "name": "LongestPrefix",
       "request": "launch",
       "mainClass": "DSA.strings.LongestPrefix",
