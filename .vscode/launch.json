@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "fourSum",
+      "request": "launch",
+      "mainClass": "fourSum",
+      "projectName": "Problem-Solving_93b81ce9"
+    },
+    {
+      "type": "java",
       "name": "merge",
       "request": "launch",
       "mainClass": "sorting.merge",
