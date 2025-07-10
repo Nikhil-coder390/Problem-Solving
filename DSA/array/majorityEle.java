@@ -27,6 +27,6 @@ class majorityEle{
         System.out.println("Majority Element: " + result); // Output: 3
         int[] nums2 = {1, 2, 3, 4};
         int result2 = sol.majorityElement(nums2);
-        System.out.println("Majority Element: " + result2); // Output: -1
+        System.out.println("Majority Element: " + result2); // Output: -1maj
     }
 }
