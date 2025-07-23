@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public void merge(int[] num, int low, int mid, int high){
         int left = low, right = mid+1;
