@@ -15,15 +15,7 @@ int main(){
         {
             cin >> arr[i];
         }
-        vector<int> ans(n);
-        ans = arr;
-        sort(ans.begin(), ans.end());
-        for(int i=1;i<n;i++){
-            if(arr[i-1]<arr[i] && arr[i]>arr[i+1]){
-                swap(arr[i], arr[i+1]);
-            }
-        }
-        if(ans == arr){
+        if(arr[0] == 1){
             cout << "Yes" << endl;
         }else{
             cout << "No" << endl;
