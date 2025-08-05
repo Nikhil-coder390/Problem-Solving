@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PalindromeSentence",
+      "request": "launch",
+      "mainClass": "PalindromeSentence",
+      "projectName": "Problem-Solving_93b81ce9"
+    },
+    {
+      "type": "java",
       "name": "fourSum",
       "request": "launch",
       "mainClass": "fourSum",
